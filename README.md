@@ -1,2 +1,3 @@
 # dd
 this is my frist repo...
+author - kartik gupta
